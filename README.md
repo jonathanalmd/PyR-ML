@@ -1,2 +1,2 @@
-# PyML
-Python Machine Learning
+# PyR-ML
+Python-R Machine Learning playground
